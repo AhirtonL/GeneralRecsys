@@ -3,4 +3,4 @@ A general and easily tunable recommender algorithm based on product similarity. 
 
 Test dataset (ecommerce_data) can be found @ Kaggle - https://www.kaggle.com/carrie1/ecommerce-data
 
-More about this algorithm at my slideshare (in portuguese) - https://www.slideshare.net/JosAhirtonBatistaLop/jose-ahirton-lopes-apresentacao-sessao-tecnica-i
+More about this algorithm @ my slideshare (in portuguese) - https://www.slideshare.net/JosAhirtonBatistaLop/jose-ahirton-lopes-apresentacao-sessao-tecnica-i
